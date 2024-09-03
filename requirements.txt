@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_ollama
+selenium #allow us to automate a web browser so can actually navigate to a webpage
+#grap all the content on the page and pass it to an llm
+beautifulsoup4
+lxml
+html5lib
+python-dotenv
+
+
+#websraperAPI gives you captcha solver and different ip addresses as it you were a real person browsing the website
